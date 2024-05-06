@@ -1,66 +1,67 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Juan S. Gonzalez Camacho",
+    "label": "Ingeniero de Sistemas apasionado por el desarrollo web y compartir conocimiento",
+    "image": "/me.jpg",
+    "email": "sebasgonzac27@gmail.com",
+    "phone": "+57 3175852505",
+    "url": "",
+    "summary": "Desarrollador Web Junior con más de un año de experiencia. Actualmente trabajo tanto en Frontend como en Backend. Apasionado por aprender y compartir conocimiento, me destaco por trabajar en equipo y alcanzar objetivos que me ayuden a superarme cada día.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "Cra 8 # 26B-50",
+      "postalCode": "763023",
+      "city": "Tuluá",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "sebasgonzac",
+        "url": "https://linkedin.com/in/sebasgonzac"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "sebasgonzac27",
+        "url": "https://x.com/sebasgonzac27"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "sebasgonzac27",
+        "url": "https://github.com/sebasgonzac27"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Contento Latam",
+      "position": "Desarrollador Junior",
+      "url": "https://contentolatam.com/",
+      "startDate": "2024-02-12",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollador Junior encargado de crear plantillas de e-commerce para diferentes segmentos del mercado y apoyar en la creación de nuevos web services y funcionalidades.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Universidad del Valle",
+      "position": "Monitor de la OITEL",
+      "url": "https://tulua.univalle.edu.co",
+      "startDate": "2022-01-10",
+      "endDate": null,
+      "summary": "Monitor de la Oficina de Informática y Telecomunicaciones de la Universidad del Valle sede Tuluá, encargado de administrar y mantener los equipos de cómputo de las 4 salas de sistemas de la institución, brindar soporte y atención a la comunidad, montar infraestructura de red en los puntos que se requiera.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Black Soft",
+      "position": "Desarrollador Frontend",
+      "url": "",
+      "startDate": "2022-01-05",
+      "endDate": "2022-12-22",
+      "summary": "Desarrollador Frontend, encargado de programar interfaces de usuario para aplicaciones web para la gestión de inventarios y ventas de las droguerías de la región.",
       "highlights": [
         "Started the company"
       ]
@@ -78,15 +79,15 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Universidad del Valle",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Pregrado",
+    "startDate": "2019-08-15",
+    "endDate": null,
+    "score": "4.65",
     "courses": [
-      "DB1101 - Basic SQL"
+      ""
     ]
   }],
   "awards": [{
@@ -185,6 +186,27 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Sass",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Preprocessor", "Diseño"
+      ]
+    },
+    {
+      "name": "Php",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servidor", "Lenguaje de Programación"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Framework", "UI"
+      ]
     }
   ],
   "languages": [
@@ -210,66 +232,43 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Loan-Hub",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
+      "description": "Plataforma de préstamos de equipos tecnológicos de la Universidad del Valle",
+      "highlights": ["Laravel", "Filament"],
+      "url": "",
+      "github": "https://github.com/sebasgonzac27/loan-hub"
     },
     {
-      "name": "AdventJS",
+      "name": "Flayer Creator",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Creador de flayers para eventos del club de motos Nómadas Urbanos",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "React.js"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://flayer-creator-nomadas.vercel.app/",
+      "github": "https://github.com/sebasgonzac27/flayer-creator-nomadas"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Tecnobox",
+      "isActive": false,
+      "description": "Tienda virtual para venta y compra de partes de computadores",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Django"
       ],
-      "url": "https://codember.dev"
+      "url": "",
+      "github": "https://github.com/anferubu/tecnobox"
     },
     {
-      "name": "codi.link",
+      "name": "Planning Poker",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Plataforma para estimación de costos tipo planning poker como reto propuesto por Pragma",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Next.js",
+        "Sass"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "",
+      "github": "https://github.com/sebasgonzac27/planning-poker"
     }
   ]
 }
