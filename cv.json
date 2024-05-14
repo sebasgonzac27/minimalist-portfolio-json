@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Juan S. Gonzalez Camacho",
-    "label": "Ingeniero de Sistemas apasionado por el desarrollo web y compartir conocimiento",
+    "name": "Juan Sebastian Gonzalez Camacho",
+    "label": "Estudiante de Ingeniería de Sistemas",
     "image": "/me.jpg",
     "email": "sebasgonzac27@gmail.com",
     "phone": "+57 3175852505",
     "url": "",
-    "summary": "Desarrollador Web Junior con más de un año de experiencia. Actualmente trabajo tanto en Frontend como en Backend. Apasionado por aprender y compartir conocimiento, me destaco por trabajar en equipo y alcanzar objetivos que me ayuden a superarme cada día.",
+    "summary": "Ingeniero de Sistemas en formación y desarrollador junior con experiencia en desarrollo frontend y backend. Apasionado por la innovación tecnológica y comprometido con la excelencia, he contribuido al éxito de los proyectos en los que he trabajado. Mi enfoque proactivo y habilidades colaborativas me permiten enfrentar desafíos con creatividad y eficiencia, siempre buscando impulsar el progreso en el mundo digital.",
     "location": {
       "address": "Cra 8 # 26B-50",
       "postalCode": "763023",
@@ -206,6 +206,13 @@
       "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Framework", "UI"
+      ]
+    },
+    {
+      "name": "Mongo",
+      "level": "Básico",
+      "keywords": [
+        "Bases de Datos", "NoSQL", "Almacenamiento de Datos", "Backend"
       ]
     }
   ],
